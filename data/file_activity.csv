@@ -1,0 +1,6 @@
+timestamp,action,path,bytes,destination,user,source
+2026-05-07T08:18:00Z,copy,C:\Users\alex\Documents\project-plan.docx,24576,E:\project-plan.docx,alex,edr_file_events.csv
+2026-05-07T09:13:00Z,upload,C:\Users\alex\Documents\design.zip,157286400,drive.google.com,alex,edr_file_events.csv
+2026-05-07T09:15:00Z,upload,C:\Users\alex\Documents\budget.xlsx,5242880,drive.google.com,alex,edr_file_events.csv
+2026-05-07T14:32:00Z,upload,C:\Users\alex\Downloads\archive.zip,209715200,dropbox.com,alex,edr_file_events.csv
+2026-05-07T15:10:00Z,delete,C:\Users\alex\Documents\draft.txt,1024,,alex,edr_file_events.csv

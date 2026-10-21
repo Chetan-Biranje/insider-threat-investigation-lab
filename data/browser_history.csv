@@ -1,0 +1,6 @@
+timestamp,url,title,user,source
+2026-05-07T08:05:00Z,https://intranet.example.test/home,Company Intranet,alex,chrome_history.csv
+2026-05-07T09:10:00Z,https://drive.google.com/drive/my-drive,Cloud Drive,alex,chrome_history.csv
+2026-05-07T09:17:00Z,https://docs.google.com/document/d/SYNTHETIC-ID,Project document,alex,chrome_history.csv
+2026-05-07T10:02:00Z,https://mail.google.com/,Webmail,alex,chrome_history.csv
+2026-05-07T14:30:00Z,https://dropbox.com/home,Cloud storage,alex,chrome_history.csv

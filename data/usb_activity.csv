@@ -1,0 +1,5 @@
+timestamp,device_id,action,user,source
+2026-05-07T08:12:00Z,USB\VID_0781&PID_5581\4C530001,connected,alex,usb_events_export.csv
+2026-05-07T08:19:00Z,USB\VID_0781&PID_5581\4C530001,file_copy,alex,edr_file_events.csv
+2026-05-07T11:43:00Z,USB\VID_0781&PID_5581\4C530001,disconnected,alex,usb_events_export.csv
+2026-05-07T14:22:00Z,USB\VID_0781&PID_5581\4C530001,connected,alex,usb_events_export.csv
